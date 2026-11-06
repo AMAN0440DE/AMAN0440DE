@@ -53,27 +53,19 @@ Currently focused on becoming a better software engineer through hands-on projec
 
 A few things I've built or contributed to:
 
-**1. Frame.AI – AI-Powered Video Segmentation**
-
-An application that transforms long-form YouTube videos into short-form content suitable for platforms like YouTube Shorts and Instagram Reels. Uses a collaborative AI-agent workflow for transcription, segment selection, video processing and subtitles.
-
-**2. ExpenseMerge – Expense & Personal Finance Management**
+**1. ExpenseMerge – Expense & Personal Finance Management**
 
 A full-stack application for managing personal and group expenses, featuring authentication, role-based access, expense tracking and subscription management.
 
-**3. AI-Based Exam Evaluation System**
+**2. AI-Based Exam Evaluation System**
 
 A web application designed to automate exam evaluation using AI, with a React frontend and a Node.js/Express backend integrated with Gemini API.
 
-**4. Smart Study Platform**
-
-A microservices-based study management application with subject management, study sessions, AI-generated quizzes, containerization, CI/CD and monitoring.
-
-**5. Student-Teacher Ratio Optimizer**
+**3. Student-Teacher Ratio Optimizer**
 
 An AI/ML-based solution that uses machine learning, clustering and optimization algorithms to improve student-teacher allocation and resource utilization.
 
-**6. Auto Captioning for Deaf & Hard-of-Hearing Users**
+**4. Auto Captioning for Deaf & Hard-of-Hearing Users**
 
 A speech-to-text application using automatic speech recognition to generate captions and make spoken content more accessible.
 
@@ -92,9 +84,9 @@ A speech-to-text application using automatic speech recognition to generate capt
 
 ### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMAN0440DE&show_icons=true&hide_border=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN0440DE&layout=compact&hide_border=true&theme=github_dark)
 
 ---
 
@@ -102,9 +94,9 @@ A speech-to-text application using automatic speech recognition to generate capt
 
 I'm always interested in connecting with developers, learning from other engineers, collaborating on interesting projects, and exploring new technologies.
 
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **GitHub:** [Explore my repositories](https://github.com/YOUR_USERNAME)
-- **Email:** YOUR_EMAIL
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/amankumar415/)
+- **GitHub:** [Explore my repositories](https://github.com/AMAN0440DE)
+- **Email:** kumar02aman2004@gmail.com
 
 ---
 
