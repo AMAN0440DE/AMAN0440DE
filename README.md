@@ -88,7 +88,7 @@ A speech-to-text application using automatic speech recognition to generate capt
 I'm always interested in connecting with developers, learning from other engineers, collaborating on interesting projects, and exploring new technologies.
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/amankumar415/)
-- **GitHub:** [Explore my repositories](https://github.com/AMAN0440DE)
+- **GitHub:** [Explore my repositories](https://github.com/AMAN0440DE?tab=repositories)
 - **Email:** kumar02aman2004@gmail.com
 
 ---
