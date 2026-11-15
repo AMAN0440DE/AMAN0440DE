@@ -82,13 +82,6 @@ A speech-to-text application using automatic speech recognition to generate capt
 
 ---
 
-### GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMAN0440DE&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN0440DE&layout=compact&hide_border=true&theme=github_dark)
-
----
 
 ### Let's Connect
 
